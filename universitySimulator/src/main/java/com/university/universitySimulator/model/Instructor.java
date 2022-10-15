@@ -24,6 +24,10 @@ public class Instructor {
 
     }
 
+    public long getId() {
+        return id;
+    }
+
     public String getInstructorName() {
         return instructorName;
     }
